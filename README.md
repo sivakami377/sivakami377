@@ -15,17 +15,23 @@ Languages Known:
 - CSS3.
 - JAVASCRIPT.
 - BOOTSTRAP.
+
+Tools:
+-
 - FIGMA.
+- GITHUB.
 
 Projects:
 -
 - My Personal Portfolio.
 - My Portfolio UI/UX Design using Figma.
 - I am completed Orphanage website.
-- I am currently connect with Omega.
+- I am completed Omega website.
 
 connect with me:
 -
 https://www.linkedin.com/in/sivakami-k-737747295/
+https://www.instagram.com/accounts/onetap/?next=https%3A%2F%2Fwww.instagram.com%2Fdirect%2Ft%2F17842045238275192%2F%3F__coig_login%3D1
+
 
 
